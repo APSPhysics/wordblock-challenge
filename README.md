@@ -53,7 +53,7 @@ The goals of this test are to evaluate the applicant's ability to:
 
 ## Instructions for Submission
 
-* The applicant must submit their pseudocode solution in a document or text file, along with any instructions or notes needed to run the program (if applicable).
+* The applicant must submit their solution in a document or text file, along with any instructions or notes needed to run the program (if applicable).
 * Please send your submission to bacote@aps.org as a zip, .tar, or .tar.gz file. 
 
 ### Bonus Points
